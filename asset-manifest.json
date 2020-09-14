@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-hulu-clone/static/css/main.523f09c5.chunk.css",
+    "main.js": "/react-hulu-clone/static/js/main.78182ef1.chunk.js",
+    "main.js.map": "/react-hulu-clone/static/js/main.78182ef1.chunk.js.map",
+    "runtime-main.js": "/react-hulu-clone/static/js/runtime-main.5b55872a.js",
+    "runtime-main.js.map": "/react-hulu-clone/static/js/runtime-main.5b55872a.js.map",
+    "static/js/2.b02c4f1e.chunk.js": "/react-hulu-clone/static/js/2.b02c4f1e.chunk.js",
+    "static/js/2.b02c4f1e.chunk.js.map": "/react-hulu-clone/static/js/2.b02c4f1e.chunk.js.map",
+    "index.html": "/react-hulu-clone/index.html",
+    "precache-manifest.34e3515ce09ee737531e6a3931f83472.js": "/react-hulu-clone/precache-manifest.34e3515ce09ee737531e6a3931f83472.js",
+    "service-worker.js": "/react-hulu-clone/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/react-hulu-clone/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.b02c4f1e.chunk.js.LICENSE.txt": "/react-hulu-clone/static/js/2.b02c4f1e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-hulu-clone/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b55872a.js",
+    "static/js/2.b02c4f1e.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.78182ef1.chunk.js"
+  ]
+}
