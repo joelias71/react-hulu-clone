@@ -8,7 +8,40 @@
     background-color: #333;
 }
 
+.header__icon:hover > p {
+    display: inline;
+}
+
+.header__icon > p {
+    display: none;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: small;
+}
+
+.header__icon {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    cursor: pointer;
+}
+
+.header__icon > .MuiSvgIcon-root {
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 30px;
+}
+
+.header__icons {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
 .header > img {
     object-fit: contain;
     height: 80px;
+    cursor: pointer;
 }
